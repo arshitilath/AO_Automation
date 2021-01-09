@@ -12,7 +12,7 @@ public class base {
 	  public WebDriver initializeDriver()
 	  {
 
-		  System.setProperty("webdriver.chrome.driver", "C:\\software\\Drivers\\chromedriver.exe");
+		  System.setProperty("webdriver.chrome.driver", "C:\\AO_Automation-master\\AO_Automation\\chromedriver.exe");
 		  driver= new ChromeDriver();
 		  
 		  driver.manage().window().maximize();
