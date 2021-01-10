@@ -5,6 +5,12 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+
+/**
+ * @author Arshi Tilath
+ * This class is a base class for initialising the webDriver
+ */
+
 public class base {
 	
 	  public WebDriver driver;

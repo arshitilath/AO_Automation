@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.ao</groupId>
-  <artifactId>AO_Assignment</artifactId>
+  <artifactId>AO_Automation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>AO_Assignment</name>
+  <name>AO_Automation</name>
   <url>http://maven.apache.org</url>
 
   <properties>
