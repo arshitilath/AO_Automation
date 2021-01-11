@@ -4,7 +4,7 @@
 
 Feature: Perform search for washing machines of a particular brand on AO.com and filter out product results based on colour feauture
 
-Scenario: Search for washing machines
+Scenario: Search for washing machines of a particular brand and verify the results are filtered based on colour feature
     Given User navigates to AO.COM Site
     When User enters washing machine in search products edit box and clicks on search icon
     Then Verify that user is on washing machines results page    
